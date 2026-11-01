@@ -1,0 +1,4 @@
+methode,observations_signalees,pourcentage
+Isolation Forest,30,5.0
+LOF,30,5.0
+IQR (au moins une variable),12,2.0
